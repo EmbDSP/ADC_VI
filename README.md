@@ -10,3 +10,9 @@ The "Analog-to-Digital Converter" panel allows students to set the ADC parameter
 
 The AD conversion can be analyzed by two resources located in the "View" menu: "Histogram" and "Transfer Curve".  
 
+## License
+
+The current software is designed for educational use only and does not serve any commercial interests.
+
+The software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from,
+out of or in connection with the software or the use or other dealings in the software.
